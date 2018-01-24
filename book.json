@@ -2,11 +2,8 @@
     "root": "./",
     "title": "文档中心",
     "logo": "./images/logo.png",
-
     "gitbook": ">= 3.0.0",
-
     "language": "zh-hans",
-
     "plugins": [
         "-sharing",
         "-fontsettings",
