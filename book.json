@@ -1,5 +1,5 @@
 {
-    "root": "./",
+    "root": "./mdsrc",
     "title": "文档中心",
     "head_title": "_OpenHEC文档中心",
     "head_description": "OpenHEC FPGA云文档中心",
