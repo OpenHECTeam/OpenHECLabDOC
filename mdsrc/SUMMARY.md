@@ -4,14 +4,13 @@
   * [OpenHEC平台简介](openhecping-tai-jian-jie.md)
     * [硬件](openhecping-tai-jian-jie/zi-yuan.md)
     * [知识点](openhecping-tai-jian-jie/zhi-shi-dian.md)
-    * 学习路径
-    * 训练营
-    * 个人中心
+    * [学习路径](openhecping-tai-jian-jie/xue-xi-lu-jing.md)
+    * [训练营](openhecping-tai-jian-jie/xun-lian-ying.md)
+    * [个人中心](openhecping-tai-jian-jie/ge-ren-zhong-xin.md)
   * [用户开发流程](yong-hu-kai-fa-liu-cheng.md)
-    * [大致流程简介](yong-hu-kai-fa-liu-cheng/da-zhi-liu-cheng-jian-jie.md)
-    * [oDisk云盘](yong-hu-kai-fa-liu-cheng/odisk.md)
-    * EDA开发工具云
-    * FPGA硬件云
+    * [选择开发入口](yong-hu-kai-fa-liu-cheng/odisk.md)
+    * [使用虚拟机](yong-hu-kai-fa-liu-cheng/edakai-fa-gong-ju-yun.md)
+    * [使用FPGA](yong-hu-kai-fa-liu-cheng/fpgaying-jian-yun.md)
   * [开发流程范例](kai-fa-liu-cheng-fan-li.md)
     * [组合逻辑与门](kai-fa-liu-cheng-fan-li/zu-he-luo-ji-yu-men.md)
     * 时序逻辑D触发器
@@ -21,19 +20,19 @@
     * 时序逻辑LED点阵
     * 教学版SRAM存储接口
     * 软硬件协同之sobel算法加速
-* [硬件](chapter1.md)
-  * [云硬件介绍](chapter1/yun-ying-jian-jie-shao.md)
+* [硬件](ying-jian.md)
+  * [云硬件介绍](ying-jian/yun-ying-jian-jie-shao.md)
   * 支撑包
-  * [Flyx-SOM](chapter1/flyx-somji-chu-pei-zhi.md)
-    * [基础配置](chapter1/flyx-somji-chu-pei-zhi/ji-chu-pei-zhi.md)
-    * [快速体验](chapter1/kuai-su-ti-yan.md)
-      * [组合逻辑与门](chapter1/kuai-su-ti-yan/zu-he-luo-ji-yu-men.md)
+  * [Flyx-SOM](ying-jian/flyx-somji-chu-pei-zhi.md)
+    * [基础配置](ying-jian/flyx-somji-chu-pei-zhi/ji-chu-pei-zhi.md)
+    * [快速体验](ying-jian/kuai-su-ti-yan.md)
+      * [组合逻辑与门](ying-jian/kuai-su-ti-yan/zu-he-luo-ji-yu-men.md)
       * 组合逻辑数码管
-    * [硬件支撑包](chapter1/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao.md)
-      * 实验支撑包RELAX\_FlyxSOM入门手册
-      * 实验支撑包RELAX\_FlyxSOM\_LED7SEG入门手册
-      * 实验支撑包RELAX\_FlyxSOM\_LED7SEG\_SRAM入门手册
-      * 项目支撑包RELAXSoC\_FlyxSOM入门手册
+    * [硬件支撑包](ying-jian/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao.md)
+      * [RELAX\_FlyxSOM](ying-jian/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao/shi-yan-zhi-cheng-bao-relax-flyxsom-ru-men-shou-ce.md)
+      * [RELAX\_FlyxSOM\_LED7SEG](ying-jian/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao/shi-yan-zhi-cheng-bao-relax-flyxsom-led7seg-ru-men-shou-ce.md)
+      * [RELAX\_FlyxSOM\_LED7SEG\_SRAM](ying-jian/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao/shi-yan-zhi-cheng-bao-relax-flyxsom-led7seg-sram-ru-men-shou-ce.md)
+      * [RELAXSoC\_FlyxSOM](ying-jian/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao/xiang-mu-zhi-cheng-bao-relaxsoc-flyxsom-ru-men-shou-ce.md)
 * [知识点](zhi-shi-dian.md)
   * [工具类](zhi-shi-dian/gong-ju-lei.md)
     * [Vivado](zhi-shi-dian/gong-ju-lei/vivado.md)
