@@ -13,20 +13,20 @@
     * [使用FPGA](yong-hu-kai-fa-liu-cheng/fpgaying-jian-yun.md)
   * [开发流程范例](kai-fa-liu-cheng-fan-li.md)
     * [组合逻辑与门](kai-fa-liu-cheng-fan-li/zu-he-luo-ji-yu-men.md)
-    * 时序逻辑D触发器
-    * 片上ROM存储接口
-    * 片外RAM存储接口
-    * 组合逻辑数码管
-    * 时序逻辑LED点阵
-    * 教学板SRAM存储接口
-    * 软硬件协同之sobel算法加速
+    * [时序逻辑D触发器](kai-fa-liu-cheng-fan-li/shi-xu-luo-ji-d-hong-fa-qi.md)
+    * [片上ROM存储接口](kai-fa-liu-cheng-fan-li/pian-shang-rom-cun-chu-jie-kou.md)
+    * [片外RAM存储接口](kai-fa-liu-cheng-fan-li/pian-wai-ram-cun-chu-jie-kou.md)
+    * [组合逻辑数码管](kai-fa-liu-cheng-fan-li/zu-he-luo-ji-shu-ma-guan.md)
+    * [时序逻辑LED点阵](kai-fa-liu-cheng-fan-li/shi-xu-luo-ji-led-dian-zhen.md)
+    * [教学板SRAM存储接口](kai-fa-liu-cheng-fan-li/jiao-xue-ban-sram-cun-chu-jie-kou.md)
+    * [软硬件协同之sobel算法加速](kai-fa-liu-cheng-fan-li/ruan-ying-jian-xie-tong-zhi-sobel-suan-fa-jia-su.md)
 * [硬件](ying-jian.md)
   * [云硬件介绍](ying-jian/yun-ying-jian-jie-shao.md)
   * [Flyx-SOM](ying-jian/flyx-somji-chu-pei-zhi.md)
     * [基础配置](ying-jian/flyx-somji-chu-pei-zhi/ji-chu-pei-zhi.md)
     * [快速体验](ying-jian/kuai-su-ti-yan.md)
       * [组合逻辑与门](ying-jian/kuai-su-ti-yan/zu-he-luo-ji-yu-men.md)
-      * 组合逻辑数码管
+      * [组合逻辑数码管](ying-jian/kuai-su-ti-yan/zu-he-luo-ji-shu-ma-guan.md)
     * [硬件支撑包](ying-jian/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao.md)
       * [RELAX\_FlyxSOM](ying-jian/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao/shi-yan-zhi-cheng-bao-relax-flyxsom-ru-men-shou-ce.md)
       * [RELAX\_FlyxSOM\_LED7SEG](ying-jian/flyx-somji-chu-pei-zhi/ying-jian-zhi-cheng-bao/shi-yan-zhi-cheng-bao-relax-flyxsom-led7seg-ru-men-shou-ce.md)
@@ -39,6 +39,6 @@
     * [Verilog](zhi-shi-dian/yu-yan-lei/hdl.md)
     * HLS
   * [课程类](zhi-shi-dian/ke-cheng-lei.md)
-  * 技能类
+  * [技能类](zhi-shi-dian/ji-neng-lei.md)
 * [常见问题](chang-jian-wen-ti.md)
 
